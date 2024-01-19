@@ -24,7 +24,7 @@ This project is a simple web application built using the MERN stack that provide
 1. Clone the repository:
    ```bash
    git clone https://github.com/AdityaTile04/google-signup-page.git
-   cd react-google-login-mern
+ 
    ```
 
 ## 1.Install dependencies:
